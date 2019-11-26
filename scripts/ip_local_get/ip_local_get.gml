@@ -1,0 +1,1 @@
+return string(ds_map_find_value(async_load, "ip"))

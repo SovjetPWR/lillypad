@@ -1,0 +1,2 @@
+myIp = ip_get()
+
