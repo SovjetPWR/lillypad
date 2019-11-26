@@ -1,8 +1,8 @@
 {
-    "id": "099e9fb1-694a-4c03-a8f3-6c41196e82d7",
+    "id": "d03349ef-7d33-479c-9932-3604fe7f3e54",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "sendName",
+    "name": "sendPlayerUpdate",
     "IsCompatibility": false,
     "IsDnD": false
 }

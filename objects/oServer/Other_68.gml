@@ -47,7 +47,7 @@ else if event_id != global.socket
 	
 	switch(cmd)
 	{
-		case dataType.PLAYER_POSITION :
+		case dataType.PLAYER_UPDATE :
 		{
 			with(p)
 			{
@@ -59,6 +59,7 @@ else if event_id != global.socket
 			
 			break;
 		}
+		/*
 		case dataType.PLAYER_IMAGE :
 		{
 			with(p)
@@ -80,7 +81,8 @@ else if event_id != global.socket
 			
 			break;
 		}
-		case dataType.PLAYER_NAME:
+		*/
+		case dataType.PLAYER_INIT:
 		{
 			var nm = buffer_read(buff, buffer_string)
 			p.name = nm

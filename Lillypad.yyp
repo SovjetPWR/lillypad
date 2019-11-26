@@ -42,7 +42,7 @@
             "Key": "099e9fb1-694a-4c03-a8f3-6c41196e82d7",
             "Value": {
                 "id": "2bd07095-cd6c-40c9-b0d5-d4182322a785",
-                "resourcePath": "scripts\\sendName\\sendName.yy",
+                "resourcePath": "scripts\\sendPlayerInit\\sendPlayerInit.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -367,14 +367,6 @@
             }
         },
         {
-            "Key": "be1d2bbe-29e9-46f6-b814-f7ecd94ed79f",
-            "Value": {
-                "id": "40e4e557-d9cf-456e-b75b-484c640d4e69",
-                "resourcePath": "scripts\\sendImage\\sendImage.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "c0e50ec4-7611-486c-8065-a5eef1937bf1",
             "Value": {
                 "id": "3b4a61e7-23d5-4786-8245-0f9b95e0bc20",
@@ -418,7 +410,7 @@
             "Key": "d03349ef-7d33-479c-9932-3604fe7f3e54",
             "Value": {
                 "id": "17172ede-a313-483e-a522-2e56341451bf",
-                "resourcePath": "scripts\\sendKey\\sendKey.yy",
+                "resourcePath": "scripts\\sendPlayerUpdate\\sendPlayerUpdate.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -579,9 +571,8 @@
         "3ce9748b-8d39-498b-9b77-fe1feff70fb4",
         "ea64bc1e-0593-4a85-be75-744e3de1f63a",
         "86d239bd-59b7-436e-8c8f-9ce0241a57b4",
-        "d03349ef-7d33-479c-9932-3604fe7f3e54",
-        "be1d2bbe-29e9-46f6-b814-f7ecd94ed79f",
         "099e9fb1-694a-4c03-a8f3-6c41196e82d7",
+        "d03349ef-7d33-479c-9932-3604fe7f3e54",
         "dcb83b38-6a84-4db7-b9e5-e5c807b4137c"
     ],
     "tutorial": ""

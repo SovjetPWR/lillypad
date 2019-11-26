@@ -9,10 +9,9 @@ ip_local_start()
 
 enum dataType
 {
-	PLAYER_POSITION,
 	ENTITY_UPDATE,
-	PLAYER_IMAGE,
-	PLAYER_NAME,
+	PLAYER_INIT,
+	PLAYER_UPDATE,
 }
 
 

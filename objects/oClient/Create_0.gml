@@ -10,4 +10,4 @@ buffer = buffer_create(1024,buffer_grow,1)
 
 entities = ds_map_create()
 
-sendName(global.name)
+sendPlayerInit(global.name)

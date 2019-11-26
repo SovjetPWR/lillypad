@@ -20,17 +20,3 @@ switch(tot)
 	case 9:	 {sprite_index = spr_player_dw_dx;	break;}
 }
 
-
-/*
-repeat(vel)
-{
-	if key_up then
-	{y-=1}
-	if key_dw then
-	{y+=1}
-	if key_sx then
-	{x-=1}
-	if key_dx 
-	{x+=1}
-}
-
